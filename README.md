@@ -1,4 +1,4 @@
-9# MarketBasketDataset
+# MarketBasketDataset
 
 We use a public available dataset, published by dunnhumby and x university and hosted in 'link'.
 
