@@ -22,7 +22,8 @@ The format of the metadata information is: "node_id"   "price_range", varying be
 
 Network sizes:
 
-| Networks       |         Nodes      |    Edges      |    Timestamps
-| Low-income network   |   9,450        |  387,031   |     346 (days)           
-| Middle-income network  | 9,859      |    470,224    |    346 (days)           
-| High-income network  |   3,071      |    46,410    |     346 (days)    
+
+| Networks              | Nodes      | Edges    | Timestamps
+| Low-income network    | 9,450      | 387,031  | 346 (days)           
+| Middle-income network | 9,859      | 470,224  | 346 (days)           
+| High-income network   | 3,071      | 46,410   | 346 (days)    
