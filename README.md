@@ -1,4 +1,4 @@
-# MarketBasketDataset
+9# MarketBasketDataset
 
 We use a public available dataset, published by dunnhumby and x university and hosted in 'link'.
 
@@ -19,3 +19,10 @@ The format of the network file is: "node_1_id"  "node_2_id"  "timestamp", where 
 * The metadata information of the networks are available at: 'Products price range.txt'.
 
 The format of the metadata information is: "node_id"   "price_range", varying between 0 (Very low), 1 (Low), 2 (Normal), 3 (High), and 4 (Very High).
+
+Network sizes:
+
+                        Nodes          Edges          Timestamps
+*Low-income network     9,450          387,031        346 (days)           
+*Middle-income network  9,859          470,224        346 (days)           
+*High-income network    3,071          46,410         346 (days)    
